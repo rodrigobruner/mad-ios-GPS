@@ -1,4 +1,3 @@
-# Conestoga College - Mobile Solutions Development
-## Mobile Application Development - iOS (PROG8471)
+## GPS
 
 ![System demo](screenshot.gif)
